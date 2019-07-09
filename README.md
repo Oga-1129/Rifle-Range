@@ -1,2 +1,1 @@
 # Rifle-Range
-# Rifle-Range
